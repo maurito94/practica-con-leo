@@ -7,7 +7,6 @@ Figtree is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  Figtree-VariableFont_wght.ttf
   Figtree-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
